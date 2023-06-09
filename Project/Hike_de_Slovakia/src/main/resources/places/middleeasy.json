@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Pansky Diel crossing Spania Dolina to Banska Bystrica",
+    "shortName": "Pansky Diel",
+    "desc": "Pansky diel is an easily accessible vantage point from where you can see the entire Zvolen basin, Banská Bystrica or Horehronie. During the ascent, it is possible to refresh yourself in the Sachticka recreation centre, which is located at the foot of the mountain.",
+    "hikeRoute": "Spania Dolina - Sachticka - Pansky diel - Hradok, luka - Banska Bystrica - Sasova",
+    "duration": "2:50",
+    "length": "8.2",
+    "elevation": "405",
+    "maxAltitude": "1102m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/pansky_diel.jpg"
+  },
+  {
+    "name": "Skalky circuit from Rajecke Teplice",
+    "shortName": "Skalky",
+    "desc": "The Skalka hill towering above Rajecke Teplice provides fantastic views of the surroundings. The easily accessible peak is a popular tourist destination. There is a spring and a fireplace with covered seating on the top.",
+    "hikeRoute": "Rajecke Teplice - Nad vodojemom - Skalky, pramen - Nad vodojemom - Rajecke Teplice",
+    "duration": "2:50",
+    "length": "8.4",
+    "elevation": "505",
+    "maxAltitude": "769m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/skalky.jpg"
+  },
+  {
+    "name": "Cipcie circuit from Turie",
+    "shortName": "Cipcie",
+    "desc": "Cipcie (926 m.a.s.l.) is a hill in Lucanska Mala Fatra above the village Turie. It is one of the lesser known tourist destinations, so do not expect to meet crowds of tourists here. On the contrary, you will enjoy the peace and quiet in the lap of beautiful nature. The clearing at the top offers an impressive view of a large part of the Rajecka basin.",
+    "hikeRoute": "Turie - Pod Zelezom - Cipcie - Nad Zadnym - Pod Zelezom - Turie",
+    "duration": "2:40",
+    "length": "6.8",
+    "elevation": "515",
+    "maxAltitude": "920 m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/cipcie.jpg"
+  },
+  {
+    "name": "Zniev from Klastor under Zniev and back",
+    "shortName": "Zniev",
+    "desc": "Zniev Hill is an easily accessible hill, also suitable for families with children, although the climb is steeper in some sections. The route leads past the ruins of Zniev Castle, which is definitely worth a visit. From the very top, there are beautiful views of the surrounding area.",
+    "hikeRoute": "Klastor under Zniev - Zniev and back",
+    "duration": "2:40",
+    "length": "8.2",
+    "elevation": "489",
+    "maxAltitude": "985m.a.s.l.",
+    "highProfile": "",
+    "image": "images/zniev.jpg"
+  },
+  {
+    "name": "Cottage on the Klacianska Magura from Trucianske Klacany and back",
+    "shortName": "Klacianska Magura",
+    "desc": "The cottage on the Klacianska Magura, colloquially called Magura, is one of the most frequent tourist destinations from the Turcianska basin. No wonder, it is one of the most accessible chalets in Turiec and its surroundings provide beautiful distant views of the whole Turiec, the lucanska part of Mala Fatra and Velka Fatra.",
+    "hikeRoute": "Turcianske Klacany - Cottage on Klacianska Magura and back",
+    "duration": "3:40",
+    "length": "9.0",
+    "elevation": "740",
+    "maxAltitude": "1140m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/klacianska_magura.jpg"
+  }
+]

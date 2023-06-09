@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Project.Hike_de_Slovakia.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project_Hike_de_Slovakia_main_jar</output-path>
+    <root id="archive" name="Project.Hike_de_Slovakia.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Project.Hike_de_Slovakia.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/lifecycle/4.0.16/b82b017b94c50c8605d8d7285e1404f32855eabe/lifecycle-4.0.16-desktop.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/statusbar/4.0.16/e8003f2a1a4826ac507cd431d51aac256ce007a7/statusbar-4.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19/329c03a7169d61a65fa1f88af4645ecdaba1cef7/javafx-base-19-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19/44dbcee46b9e902629bb4e0f409b3d6e10ac8e8b/javafx-graphics-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/lifecycle/4.0.16/6273d13b709a60f74b2ce53a07927abf9771d292/lifecycle-4.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/c9ad4a0850ab676c5c64461a05ca524cdfff59f1/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19/1227311caf209b428591fb7d2cca27e25f06f0b4/javafx-controls-19-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/display/4.0.16/b9fb27e020cecd1f0de8b0568be914c6e4180a6f/display-4.0.16-desktop.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq/charm-glisten/6.2.2/5138396e1002cb427f4369e60396b9f6f8625760/charm-glisten-6.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/19/abc5441a6421ceac26bb512e96351bf641ee6004/javafx-fxml-19-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/e4f1766ce7404a08f45d859fb9c226fc9e41a861/junit-4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/19/9f8d4f41bff27d8ac956b21e5223eaaebb7d9413/javafx-controls-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19/430bec8a362edb04667972905a7cb34cb165d6d/javafx-base-19-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/util/4.0.16/733c5020fa479fa45f0b5352bed26f6a627ac0d3/util-4.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19/52c3f59dfa7f28375498a4b959ef84dd2f7ec8a9/javafx-graphics-19-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/19/80d1a58c5345af9151f1b4b01f8eb92f86fe49ae/javafx-base-19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gluonhq.attach/storage/4.0.16/f9d6726386c2d9196564d2f9316b31b8ae02af12/storage-4.0.16-desktop.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/19/8e98e30310844cd501f4e03fa3415f6d897c7215/javafx-graphics-19-win.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

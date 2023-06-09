@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sk.hike_de_slovakia"},{"l":"sk.hike_de_slovakia.controllers"},{"l":"sk.hike_de_slovakia.instances"}];updateSearchResults();

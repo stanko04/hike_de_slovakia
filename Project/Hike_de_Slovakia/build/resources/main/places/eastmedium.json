@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Slavkovsky peak from S. Smokovec and back",
+    "shortName": "Slavkovsky peak",
+    "desc": "The Slavkovsky peak with its height of 2452 m above sea level is situated above the Big Studena valley in the High Tatras, more precisely at the end of the spur rising from the main High Tatras ridge. Its ridge separates the Big Studena and Velicka valleys. This peak is often sought after by tourists thanks to its wide summit and unforgettable, panoramic views.",
+    "hikeRoute": "Slavkovsky peak - Razcestie pod Slakovsky peak - Slavkovsky peak and back",
+    "duration": "9:30",
+    "length": "14.8",
+    "elevation": "1498",
+    "maxAltitude": "2452m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/slavkovsky_stit.jpg"
+  },
+  {
+    "name": "Zbojnicka chalet from S. Smokovec and back",
+    "shortName": "Zbojnicka chalet",
+    "desc": "The Zbojnicka chalet (1 960 m above sea level) is situated at the end of the Great Studena dolina valley. This chalet, open all year round, offers light night hikes for active hikers and skiing with an instructor in winter. It is an ideal starting point for multi-day trips, whether ski mountaineering or climbing. The chalet offers accommodation and catering.",
+    "hikeRoute": "Stary Smokovec - Hrebienok - Razcestie nad Rainerovou chatou - Zbojnícka chalet and back",
+    "duration": "7:12",
+    "length": "17.3",
+    "elevation": "1123",
+    "maxAltitude": "1941m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/zbojnicka_chata.jpg"
+  },
+  {
+    "name": "Great Svistovka from T. Lomnica and back",
+    "shortName": "Great Svistovka",
+    "desc": "This grassy 2037,6 m.n.m. high hill with a peak located near the red marked trail, offers hikers a magnificent view of the surrounding mountains and valleys. There is also a panoramic board on its top. Below the peak is the Saddle under Svistovka, through which the trail of the Tatra Highway from Skalnate Pleso to the cottage at Zelene Pleso passes. This hill offers several variants of ascent, which can be shortened individual routes and thus it is more interesting and more accessible for different tourists.",
+    "hikeRoute": "Tatranska Lomnica - Razcestie pri hoteli Grand - Razcestie pri Skalnatej chate - Skalnata chalet - Skalnate pleso – Velka Svistovka and back",
+    "duration": "7:48",
+    "length": "17.3",
+    "elevation": "1299",
+    "maxAltitude": "2023m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/velka_svistovka.jpg"
+  },
+  {
+    "name": "Solisko from Strbske pleso and back",
+    "shortName": "Solisko",
+    "desc": "Solisko has a height of 2117 m above sea level and is one of the lowest hills in the High Tatras, which is accessible to tourists. This hill is the end of the Solisko Ridge, which is 4 kilometres long. Despite the fact that it extends on the southern edge of the mountain range, it provides a nice view. Apart from the accessibility and the views it offers, it is also attractive to hikers because of the inviting ski terrain. At its summit stands a wooden cross, which commemorates the building of the famous Chalet pod Soliskom.",
+    "hikeRoute": "Strbske pleso - Liecebny dom Solisko - Chalet under Solisko - Solisko and back",
+    "duration": "4:49",
+    "length": "9.3",
+    "elevation": "860",
+    "maxAltitude": "2117m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/solisko.jpg"
+  },
+  {
+    "name": "Teryho chalet from S. Smokovec and back",
+    "shortName": "Teryho chalet",
+    "desc": "Teryho chalet (2015 m.n.m) is the highest, year-round open alpine chalet, which offers accommodation in addition to refreshments. It is located near the Five Spis Mountains in the Little Cold Valley. It is one of the most famous alpine chalets, so it is an ideal starting point for hiking, mountaineering, as well as ski mountaineering.",
+    "hikeRoute": "Stary Smokovec - Hrebienok - Razcestie nad Rainerovou chatou - Razcestie pri Zamkovskeho chate - Teryho chalet and back",
+    "duration": "6:24",
+    "length": "18.3",
+    "elevation": "1150",
+    "maxAltitude": "2015m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/teryho_chata.jpg"
+  }
+]

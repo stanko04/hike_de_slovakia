@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Jamske Pleso circuit from Strbske pleso",
+    "shortName": "Jamske Pleso",
+    "desc": "At an altitude of 1447 m above sea level, the Jamske pleso is located directly in the limbera grove. Its maximum depth is 4.2 metres and it is situated in the Vazecka valley directly at the Tatra Highway. Above the lake rises the Jama hill, from which the name was derived.",
+    "hikeRoute": "Strbske pleso - Razcestie pod Furkotskou dolinou - Odbocka na Biely Vah - Jamske pleso - Razcestie Jambrichovo - Strbske pleso",
+    "duration": "3:40",
+    "length": "12.2",
+    "elevation": "480",
+    "maxAltitude": "1477m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/jamske_pleso.jpg"
+  },
+  {
+    "name": "Mountain hotel Hrebienok from S. Smokovec and back",
+    "shortName": "Hrebienok",
+    "desc": "The mountain hotel Hrebienok (1 285 m above sea level) is located below the Slavkovsky stit. It lies at the entrance crossroads of hiking trails, so it is an ideal starting point for hiking. It offers accommodation and refreshments throughout the year. In winter, it offers visitors a unique ice kingdom.",
+    "hikeRoute": "Stary Smokovec - Hrebienok - Mountain hotel Hrebienok and back",
+    "duration": "1:45",
+    "length": "5.2",
+    "elevation": "283",
+    "maxAltitude": "1261m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/hrebienok.jpg"
+  },
+  {
+    "name": "Cottage Plesnivec from T. Kotlina and back",
+    "shortName": "Plesnivec",
+    "desc": "Cottage Plesnivec is the only habitable cottage in the Belianske Tatras. It is located at the end of the Valley of Seven Springs, below the southeastern slope of Bujaci hill.",
+    "hikeRoute": "Tatranska Kotlina - Sumivy pramen - Cottage Plesnivec and back",
+    "duration": "3:35",
+    "length": "10",
+    "elevation": "685",
+    "maxAltitude": "1304m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/chata_plesnivec.jpg"
+  },
+  {
+    "name": "Bilikova chalet from S. Smokovec and back",
+    "shortName": "Bilikova chalet",
+    "desc": "Bilikova chalet (1255 m above sea level) called Bilicka, is a high mountain chalet in the High Tatras. It is situated on the slopes of Slavkovský stit near Hrebienok and there is a trail leading from it to the waterfalls of the Cold Stream. The chalet is open all year round and offers accommodation and catering. There is a station of the Mountain Rescue Service at the chalet.",
+    "hikeRoute": "Stary Smokovec - Hrebienok - Bilikova chalet and back",
+    "duration": "1:50",
+    "length": "5.6",
+    "elevation": "307",
+    "maxAltitude": "1271m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/bilikova_chata.jpg"
+  },
+  {
+    "name": "Batizovske pleso from V. Hagy and back",
+    "shortName": "Batizovske p.",
+    "desc": "Batizovske pleso is the only larger lake in the Batizov valley at the foot of Gerlachovsky peak, the highest peak of the Slovak Republic and the High Tatras. It lies on the southern edge of the valley above the Tatra Highway.",
+    "hikeRoute": "Vysne Hagy - Batizovske pleso and back",
+    "duration": "4:25",
+    "length": "10.4",
+    "elevation": "856",
+    "maxAltitude": "1899m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/batizovske_pleso.jpg"
+  }
+]

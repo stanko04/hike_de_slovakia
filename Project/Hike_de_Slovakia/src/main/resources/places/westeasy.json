@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Devinska Kobyla transition from Devin to Dubravka",
+    "shortName": "Devinska Kobyla",
+    "desc": "The route leads around Devin Castle, where there are restaurants where you can refresh yourself. The area of the Devinska Kobyla National Nature Reserve is remarkable for its fauna and flora. There are information boards with detailed information along the route. There is a view of the confluence of the Danube and Morava rivers.",
+    "hikeRoute": "Devin, hrad - Uzky les - Devinska Kobyla, razcestie - Bocna cesta - Dubravska hlavica - Dubravka, church - Dubravka, culture house",
+    "duration": "2:40",
+    "length": "9",
+    "elevation": "390",
+    "maxAltitude": "495m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/devinska_kobyla.jpg"
+  },
+  {
+    "name": "Cierna skala from Plavecky Stvrtok and back",
+    "shortName": "Cierna skala",
+    "desc": "The top of Cierna skala is a rocky ridge that offers views of the Little Carpathians and the Danube Plain. There are approximately 30 metres high rock walls, which form an interesting element in the overall appearance of the landscape.",
+    "hikeRoute": "Plavecky Mikulas - Pod Ciernou skalou - Cierna skala and back",
+    "duration": "2:35",
+    "length": "7",
+    "elevation": "505",
+    "maxAltitude": "655m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/cierna_skala.jpeg"
+  },
+  {
+    "name": "Vapenna (Rostun) from Plavecke Podhradie and back",
+    "shortName": "Vapenna",
+    "desc": "Vapenna, otherwise known as Rostun, is the third highest mountain in the Little Carpathians. It is situated above the villages of Solosnica and Plavecke Podhradie. An interesting fact is that on its top there is a 5-meter high reinforced concrete lookout tower, from which there is a nice view of the Carpathians, Tribec and Povazsky Inovec.",
+    "hikeRoute": "Plavecke Podhradie - Vapenna (Rostun) and back",
+    "duration": "3:00",
+    "length": "9.4",
+    "elevation": "527",
+    "maxAltitude": "752m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/vapenna.jpg"
+  },
+  {
+    "name": "Zaruby circuit from Smolenice",
+    "shortName": "Zaruby",
+    "desc": "Zaruby is the highest peak of the Little Carpathians and reaches an altitude of 768 m above sea level. This hill lies near the village of Smolenice in the Zaruby Nature Reserve. The views from the top are limited, but there are several viewpoints on the ascent route.",
+    "hikeRoute": "Smolenice, train - Havrania skala, razcestie - Havrania skala - Zaruby - Zaruby, sedlo - Certov zlab - Smolenice Castle - Smolenice, forestry institute - Smolenice, train",
+    "duration": "4:10",
+    "length": "13.1",
+    "elevation": "612",
+    "maxAltitude": "767m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/zaruby.jpeg"
+  },
+  {
+    "name": "Marhat from Nitrianska Blatnica and back",
+    "shortName": "Marhat",
+    "desc": "The route to Marhat leads past one of the oldest buildings in Slovakia - the Rotunda of St. George. At the top of Marhat there is a 17-metre wooden lookout tower, which provides a view of the whole surroundings. There is a fireplace and a shelter below it.",
+    "hikeRoute": "Nitrianska Blatnica - Jurko - Sedlo Marhat - Marhat and back",
+    "duration": "4:00",
+    "length": "14",
+    "elevation": "528",
+    "maxAltitude": "748m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/marhat.jpg"
+  }
+]

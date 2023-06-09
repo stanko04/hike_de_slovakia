@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sk.hike_de_slovakia.controllers.SignupController">
+   <children>
+      <BorderPane prefHeight="400.0" prefWidth="600.0" stylesheets="@styles.css">
+         <top>
+            <AnchorPane prefHeight="65.0" prefWidth="467.0" style="-fx-background-color: #FDE700;" BorderPane.alignment="CENTER">
+               <children>
+                  <ImageView fitHeight="57.0" fitWidth="67.0" layoutX="58.0" layoutY="4.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/logo.png" />
+                     </image>
+                  </ImageView>
+                  <Label layoutX="217.0" layoutY="10.0" text="Hike de Slovakia" underline="true">
+                     <font>
+                        <Font name="Colonna MT" size="36.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+         </top>
+         <center>
+            <AnchorPane prefHeight="400.0" prefWidth="373.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Label layoutX="157.0" layoutY="54.0" text="First name">
+                     <font>
+                        <Font name="Arial Black" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="155.0" layoutY="104.0" text="Last name">
+                     <font>
+                        <Font name="Arial Black" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="156.0" layoutY="154.0" text="Username">
+                     <font>
+                        <Font name="Arial Black" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="154.0" layoutY="204.0" text="Password">
+                     <font>
+                        <Font name="Arial Black" size="18.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="textfield_firstname" layoutX="289.0" layoutY="55.0" prefHeight="25.0" prefWidth="169.0" />
+                  <TextField fx:id="textfield_lastname" layoutX="289.0" layoutY="105.0" prefHeight="25.0" prefWidth="169.0" />
+                  <TextField fx:id="textfield_username" layoutX="289.0" layoutY="155.0" prefHeight="25.0" prefWidth="169.0" />
+                  <Button fx:id="button_signup" layoutX="223.0" layoutY="259.0" mnemonicParsing="false" onAction="#addUserAsAdmin" prefHeight="36.0" prefWidth="153.0" style="-fx-border-style: solid inside; -fx-border-radius: 5;" styleClass="registerButton" text="Add user">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="18.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="button_back" layoutX="32.0" layoutY="24.0" mnemonicParsing="false" onAction="#goBackAdmin" style="-fx-border-style: solid; -fx-border-radius: 5;" styleClass="backButton" text="Back" textFill="#141414" underline="true">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="14.0" />
+                     </font>
+                  </Button>
+                  <Label fx:id="fields_empty" layoutX="103.0" layoutY="329.0" textFill="#fc0000" underline="true">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="18.0" />
+                     </font>
+                  </Label>
+                  <PasswordField fx:id="passwordfield_password" layoutX="289.0" layoutY="205.0" prefHeight="25.0" prefWidth="169.0" />
+               </children>
+            </AnchorPane>
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>

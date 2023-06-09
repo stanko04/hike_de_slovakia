@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Vysoka from Zochova chata and back",
+    "shortName": "Vysoka",
+    "desc": "Vysoka is one of the most beautiful and popular hills of the Little Carpathians. It is one of the highest hills in the Small Carpathians. The peak itself, with its large wooden cross, provides a distant view of the surrounding countryside. The distinctive ridge of Vysoka, is characterized by rock walls and rubble. The whole hill has been declared a national nature reserve.",
+    "hikeRoute": "Zochova chata - Hubalova - Panske Uhliska - Vysoka and back",
+    "duration": "4:30",
+    "length": "15.4",
+    "elevation": "607",
+    "maxAltitude": "755m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/vysoka.jpg"
+  },
+  {
+    "name": "Skalnata circuit from Zochova Chata",
+    "shortName": "Skalnata",
+    "desc": "Skalnata belongs to the Little Carpathian Seven Hundreds, i.e. to the highest peaks of the Little Carpathian Mountains. It is a popular hill for watching the sunrise and sunset. The peak is grassy, deforested and offers panoramic views. There are also several fireplaces.",
+    "hikeRoute": "Zochova chata - Cermak - Skalnata - Certov kopec - Javorinka - Sedlo pod Javorinkou - Rybnicek - Zbojnicke - Vapenka - Velka Homola - Nad hvezdarnou - Tisove skaly - Zochova chata",
+    "duration": "5:30",
+    "length": "18.0",
+    "elevation": "789",
+    "maxAltitude": "742m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/skalnata.jpg"
+  },
+  {
+    "name": "Velka Homola circuit from Cerveny Kamen",
+    "shortName": "Velka Homola",
+    "desc": "Velka Homola belongs to the highest hills of the Little Carpathians. It is 709 metres high and on its top there is a 20-metre high lookout tower of Alexander Filipek, which provides a circular view of the wide surroundings. It is one of the most popular tourist destinations in the area. Refreshments on the trail are available at Zochova chata.",
+    "hikeRoute": "Cerveny kamen, hrad - Horna Pila - Zajaci jarok - Komarka - Zochova chata - Tisove skaly - Nad hvezdarnou - Velka Homola - Nad hvezdarnou - Tisove skaly - Zochova chata - Medvedia skala - Tri kopce - Kukla - Pred vrchmi - Pila - Cerveny Kamen, hrad",
+    "duration": "6:25",
+    "length": "20.3",
+    "elevation": "883",
+    "maxAltitude": "709m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/velka_homola.jpg"
+  },
+  {
+    "name": "Vapenna (Rostun) from Casta to Plavecke Podhradie",
+    "shortName": "Vapenna",
+    "desc": "Vapenna, otherwise known as Rostun, is the third highest mountain in the Little Carpathians. It is situated above the villages of Solosnica and Plavecke Podhradie. An interesting fact is that on its top there is a 5-meter high reinforced concrete lookout tower, from which there is a nice view of the Carpathians, Tribec and Povazsky Inovec. The route leads under the ruins of Plavecky Castle, which is worth a visit.",
+    "hikeRoute": "Casta - Castnianska dolina - Nad Jarkami - Sklena huta - Skleny vrch - Mesacna Luka - Vapenna (Rostun) - Plavecke Podhradie",
+    "duration": "5:05",
+    "length": "17.5",
+    "elevation": "742",
+    "maxAltitude": "752m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/vapenna.jpg"
+  },
+  {
+    "name": "Marhat from Bezovec and back",
+    "shortName": "Marhat",
+    "desc": "Marhat is the highest peak of the Krahulcie Hills, which are a subdivision of the Povazsky Inovec Mountains. On the forested peak of Marhat there is a 17-metre high wooden lookout tower, which provides an excellent view of the wide surroundings. There is a fireplace and a shelter below it.",
+    "hikeRoute": "Bezovec, bus - Horaren pod Kostolnym vrchom - Sedlo pod Kostolnym vrchom - Sedlo Marhat - Marhat and back",
+    "duration": "4:45",
+    "length": "17.0",
+    "elevation": "578",
+    "maxAltitude": "748m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/marhat.jpg"
+  }
+]

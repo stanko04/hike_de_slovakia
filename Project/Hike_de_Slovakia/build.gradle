@@ -1,0 +1,42 @@
+plugins {
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.12'
+    id 'com.gluonhq.gluonfx-gradle-plugin' version '1.0.16'
+}
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'https://nexus.gluonhq.com/nexus/content/repositories/releases'
+    }
+    jcenter()
+}
+
+mainClassName = 'sk.hike_de_slovakia.Main'
+
+task customFatJar(type: Jar) {
+    manifest {
+        attributes 'Main-Class': 'sk.hike_de_slovakia.Main'
+    }
+    setArchiveBaseName("hike_de_slovakia")
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    from { configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+dependencies {
+    implementation 'com.gluonhq:charm-glisten:6.2.2'
+    implementation 'com.googlecode.json-simple:json-simple:1.1.1'
+}
+
+javafx {
+    version = '19'
+    modules = [ 'javafx.controls', 'javafx.fxml' ]
+}
+
+gluonfx {
+    attachConfig {
+        version = "4.0.16"
+        services 'display', 'lifecycle', 'statusbar', 'storage'
+    }
+}

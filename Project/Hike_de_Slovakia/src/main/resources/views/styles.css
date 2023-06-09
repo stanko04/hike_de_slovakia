@@ -1,0 +1,80 @@
+.sidebarItem:hover{
+    -fx-background-color: white;
+    -fx-border-color: WHITE;
+    -fx-border-width: 0px 0px 0px 8px;
+}
+
+.loginButton {
+    -fx-background-color: #FED700;
+}
+
+.loginButton:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.registerButton {
+    -fx-background-color: #FDE700;
+}
+
+.registerButton:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.backButton {
+     -fx-background-color: #dd4848;
+}
+
+.backButton:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.homePageButton {
+    -fx-background-color: #FDE700;
+}
+
+.homePageButton:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.createJourneyButton {
+     -fx-background-color: #FDE700;
+}
+
+.createJourneyButton:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.deleteJourney {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+
+.deleteJourney:hover {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.goBack {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.goBack:hover {
+    -fx-background-color: #FDE700;
+    -fx-text-fill: black;
+}
+
+.settingsButton {
+    -fx-background-color: #FDE700;
+    -fx-text-fill: black;
+}
+
+.settingsButton:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}

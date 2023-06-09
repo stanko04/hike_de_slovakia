@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Stoh circuit from Stefanova",
+    "shortName": "Stoh",
+    "desc": "This distinctive and meadowy hill on the main ridge of Mala Fatra lies at an altitude of 1607.4 m.n.m. It offers great circular views of the neighbouring mountains such as Veľký Rozsutec and Poludnovy grun. The stack is a crossroads of various hiking trails and is therefore a popular tourist destination. It is ranked among the most beautiful Little Fatra hills on the ridge",
+    "hikeRoute": "Stefanova - Sedlo Medziholie - Stoh - Chrbat Stohu - Poludnovy grun - Chata na Gruni - Stefanova",
+    "duration": "6:30",
+    "length": "12.3",
+    "elevation": "1237",
+    "maxAltitude": "1607m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/stoh.jpg"
+  },
+  {
+    "name": "Krizna circuit from Stare Hory",
+    "shortName": "Krizna",
+    "desc": "The Krizna slope is an attractive place for nature lovers, especially in winter. Its size makes it interesting for various activities such as skiing, sledding, snowboarding, freeriding, skialp and of course hiking. Krizna is not to be mistaken because there is a \"secret\" military facility on the mountain with a no-entry zone. The neighbour of this Velkofatransky hill is Ostredok.",
+    "hikeRoute": "Stare Hory, pri kaplnke - Turecka - Salasky - Pod Liskou - Krizna - Majerova skala - Stare Hory, pri kaplnke",
+    "duration": "6:30",
+    "length": "15.4",
+    "elevation": "1221",
+    "maxAltitude": "1572m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/krizna.jpg"
+  },
+  {
+    "name": "Mincol from Srecno and back",
+    "shortName": "Mincol",
+    "desc": "Mincol with its altitude of 1363.9 m above sea level is situated on the main ridge of Lucanska Little Fatra. There are several hiking trails passing through the peak, which can be continued to the surrounding mountains. Neighbouring peaks are Dlha luka, Zazriva and also the Krizava hill. The peak provides a circular view of the Zilina and Turcianska basin, but also of the Little and Great Fatra.",
+    "hikeRoute": "Nezbudska Lucka - Strecno, pod hradom - Sedlo Rakytie - Sedlo Javorina - Saracniky - Sedlo Okopy - Minvol and back",
+    "duration": "6:50",
+    "length": "19.2",
+    "elevation": "1209",
+    "maxAltitude": "1364m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/mincol.jpeg"
+  },
+  {
+    "name": "Small Rozsutec from Terchova ",
+    "shortName": "Small Rozsutec",
+    "desc": "At an altitude of 1343.5 m above sea level, there is a smaller brother of Great Rozsutec, the Small Rozsutec hill. More specifically, it lies in the eastern part of Small Fatra and is known for its rocky and steep walls. From the top you can see the mentioned Great Rozsutec. The starting point for this hill is Terchova, the saddle Medzirozsutce or Lower or Upper holes.",
+    "hikeRoute": "Biely Potok - Ostrvne - Podzdiar - Pod Palenicou - Pod Tanecnicou - Sedlo Medzirozsutce - Sedlo Zakres - Small Rozsutec - Biely potok",
+    "duration": "5:10",
+    "length": "11.3",
+    "elevation": "828",
+    "maxAltitude": "1334m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/maly_rozsutec.jpg"
+  },
+  {
+    "name": "Cottage under Suchy circuit from Strecno",
+    "shortName": "Cottage Suchy",
+    "desc": "Cottage under Suchy is a mountain chalet in Small Fatra. It is located on the north-western slope of the Suchy hill at an altitude in the cadastral area of the village of Nezbudska Lucka. The International long-distance tourist route E3 passes through the locality. Access to the cottage is possible by hiking trails from Strecno or Varin.",
+    "hikeRoute": " Strecno, stanica - Nezbudska Lucka - Podhradske - Cottage under Suchy - Javorina - Sedlo Brestov - Pod Jedlovinou - Stecno, stanica",
+    "duration": "5:45",
+    "length": "16.8",
+    "elevation": "950",
+    "maxAltitude": "1145m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/chata_pod_suchym.jpg"
+  }
+]

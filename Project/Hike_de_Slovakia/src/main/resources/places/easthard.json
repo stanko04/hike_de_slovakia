@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Rysy from Strbske pleso and back",
+    "shortName": "Rysy",
+    "desc": "One of the most famous and most visited peaks of the High Tatras is undoubtedly Rysy. With their height of 2503 m and also their location, they are an unmissable mountain and attract tourists from afar. They lie between the Frog Horse and the Heavy Peak. The features cross the Slovak-Polish border and their north-western peak is the highest point in Poland. Together they have three peaks, namely the middle (main), north-western and south-eastern peak.",
+    "hikeRoute": "Strbske Pleso - Liecebny dom Solisko - Razcestie pred Heliosom - Razcestie nad Popradskym plesom - Razcestie pri Zabom potoku - Chalet under Rysy - Rysy and back",
+    "duration": "8:42",
+    "length": "21.1",
+    "elevation": "1456",
+    "maxAltitude": "2503m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/rysy.jpg"
+  },
+  {
+    "name": "Jahnaci peak from T. Matliare and back",
+    "shortName": "Jahnaci peak",
+    "desc": "The rather pointed, 2229,6 m.n.m. high Jahnaci Peak is concentrated in the northeastern part of the High Tatras. It is the easternmost peak of the High Tatras, in the past also called the White Peak and provides a nice view of the surrounding valleys but also Lomnicky, Pysny, Kolovy peak and others. The view that you will get after climbing to the top will also reward you with views of Poland and the Western Tatras.",
+    "hikeRoute": "Tatranske Matliare - Razcestie nad Matliarmi - Razcestie Salviovy pramen - Chata pri Zelenom plese - Jahnaci peak and back",
+    "duration": "9:30",
+    "length": "21.7",
+    "elevation": "1490",
+    "maxAltitude": "2230m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/jahnaci_stit.jpg"
+  },
+  {
+    "name": "Pollish ridge circuit from S. Smokovec",
+    "shortName": "Pollish ridge",
+    "desc": "This important saddle in the main ridge of the High Tatras is located at an altitude of 2200 m. It lies between Velicky peak and Vychodna Vysoka and can be classified as one of the most visited saddles and also among the most frequently visited places in the Tatras in general. Tourists can enjoy the views of the surrounding peaks but also the Velicka valley and Zamrznute pleso from this place.",
+    "hikeRoute": "Stary Smokovec - Hrebienok - Razcestie nad Rainerovou chatou - Zbojnicka chata - Sedlo Prielom - Zmrznuty kotol - Pollish ridge - Sliezsky house - Velicka polana - Stary Smokovec",
+    "duration": "9:42",
+    "length": "20.4",
+    "elevation": "1486",
+    "maxAltitude": "2300m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/polsky_hreben.jpg"
+  },
+  {
+    "name": "Vychodna Vysoka circuit from S. Smokovec",
+    "shortName": "Vychodna Vysoka",
+    "desc": "Directly on the main ridge of the High Tatras lies the peak with its pyramid shape, the Vychodna Vysoka peak. It is located between the Polish Ridge and Prielom, reaching a height of 2428.6 m above sea level. It is definitely worth planning a hike to this peak, because it will offer you a beautiful view of the entire Tatra Mountains, the Great Studena dolina, Velicka valley and the surrounding peaks.",
+    "hikeRoute": "Stary Smokovec - Velicka polana - Sliezsky house - Pollish Ridge - Vychodna Vysoka - Pollish ridge - Zbojnicka chalet - Hrebienok - Stary Smokovec",
+    "duration": "10:15",
+    "length": "22.1",
+    "elevation": "1725",
+    "maxAltitude": "2432m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/vychodna_vysoka.jpg"
+  },
+  {
+    "name": "Priecne saddle from S. Smokovec and back",
+    "shortName": "Priecne saddle",
+    "desc": "Priecne Saddle is a mountain saddle located between the Broad Tower and the Transverse Tower. It lies at an altitude of 2352 m above sea level and has more precisely two parts. Hiking through this saddle is definitely worth planning, even though the route is secured with chains and footholds, but it is one of the most challenging for tourists available in the High Tatras. The route follows the yellow trail and connects two of the most beautiful valleys, the Small and the Large Cold Valley.",
+    "hikeRoute": "Stary Smokovec - Hrebienok - Ranier chalet - Zamkovskeho chalet - Teryho chalet - Priecne saddle and back",
+    "duration": "9:00",
+    "length": "21.6",
+    "elevation": "1601",
+    "maxAltitude": "2352m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/priecne_sedlo.jpg"
+  }
+]

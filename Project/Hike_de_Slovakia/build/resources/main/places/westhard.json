@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Vtacnik crossing from Oslany to Prochot",
+    "shortName": "Vtacnik",
+    "desc": "Vtacnik is a dominating rocky peak, which provides a view of the Hornonitrian basin and the surrounding mountains. It is the highest peak of the Vtacnik mountain range and the national nature reserve with the same name.",
+    "hikeRoute": "Oslany - Durisove stale - Sedlo pod Zarnovom - Buchlov - Zadna luka - Bystricianska dolina - Horny dom - Klastorska skala - Vtacnik - Mala Homolka - Kanie studne - Tri chotare - Pod Tromi chotarmi - Prochotsky potok - Prochot",
+    "duration": "9:15",
+    "length": "26.7",
+    "elevation": "1670",
+    "maxAltitude": "1346m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/vtacnik.png"
+  },
+  {
+    "name": "Velka Javorina from Myjava and back",
+    "shortName": "Velka Javorina",
+    "desc": "Velka Javorina is the highest peak of the White Carpathians. The peak is flat, covered with meadows and therefore offers a nice view of the surroundings. The Czech-Slovak state border passes here. The Velka Javorina transmitter is located on the summit and during the hike it is possible to refresh yourself at Holuby's hut.",
+    "hikeRoute": "Myjava - Hrabina - Dibrovov pomnik, statna hranica - Velka Javorina, Holubyho chata - Velka Javorina (CZ) and back",
+    "duration": "9:55",
+    "length": "38.2",
+    "elevation": "1090",
+    "maxAltitude": "977m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/velka_javorina.png"
+  },
+  {
+    "name": "Panska Javorina from Hradok and back",
+    "shortName": "Panska Javorina",
+    "desc": "Panska Javorina is the third highest hill in Povazsky Inovec. The peak itself is deforested, covered with meadows, the view of the whole surroundings is provided by a 16-metre high lookout tower. A shelter is available under the lookout tower. Thanks to the crossing of hiking trails, the peak is easily accessible from all sides.",
+    "hikeRoute": "Hradok - Hradok, Dolina - Hradocka dolina - Nad Malinistami - Pod Prielacinou - Sedlo pod Panskou Javorinou - Panska Javorina and back",
+    "duration": "7:30",
+    "length": "25.0",
+    "elevation": "1030",
+    "maxAltitude": "931m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/panska_javorina.png"
+  },
+  {
+    "name": "Inovec transition from Kalnica to Selc",
+    "shortName": "Inovec",
+    "desc": "Inovec is the dominant feature of the Povazsky Inovec mountain range. The view is provided by a 22 m high lookout tower. Near the top there is also a marked turn-off to a place called Dr. Bundalu's lookout. The route passes through the Krzelnica hill, which is the second highest hill in the Povazsky Inovec mountain range. The Krzelnica hill offers an excellent view of the surrounding area.",
+    "hikeRoute": "Kalnica - Nad Izbou - Utulna Izba - Tri boky - Inovec - Pod Inovcom  Selec",
+    "duration": "7:10",
+    "length": "24.1",
+    "elevation": "1145",
+    "maxAltitude": "1043m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/inovec.jpg"
+  },
+  {
+    "name": "Rokos from Uhrovec and back",
+    "shortName": "Rokos",
+    "desc": "Rokos lies in the Rokos National Nature Reserve, the hill itself has limited views, due to forestation, but during the climb you can enjoy them from several places. There is an area of European importance for many flora and fauna. There is an overnight shelter on the summit along with a fire pit.",
+    "hikeRoute": "Uhrovec - Jankov vrsok - Holy vrch, vyhlad - Holy vrch - Knazinove luky - Pod Cihocom - Rokos - sedlo II. - Rokos - sedlo I. - Rokos and back",
+    "duration": "7:45",
+    "length": "24.4",
+    "elevation": "1245",
+    "maxAltitude": "1012m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/rokos.jpg"
+  }
+]

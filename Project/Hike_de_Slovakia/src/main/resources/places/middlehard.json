@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Great Chochula from Brusno and back",
+    "shortName": "Great Chochula",
+    "desc": "Great Chochula is the highest peak of the western part of the Dumbierske Tatras. It is located at an altitude of 1753 m.n.m. and its peak provides a circular view. It is situated on the main ridge, the peak is covered by the SNP Heroes Trail and is one of the favourite tourist destinations of tourists. There are several hiking trails leading to this hill.",
+    "hikeRoute": "Brusno, vlak - Repiste - Chata pod Javorinkou - Great Chochula and back",
+    "duration": "9:15",
+    "length": "28.8",
+    "elevation": "1353",
+    "maxAltitude": "1753m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/velka_chochula.jpeg"
+  },
+  {
+    "name": "Hnilicka Kycera from Durcina and back",
+    "shortName": "Hnilicka Kycera",
+    "desc": "Hnilicka Kycera is an excellent vantage point and one of the steepest trails in the Little Fatra Mountains leads to the top. It is a hill in the main ridge of Lucanska Mala Fatra. It lies approximately 10 km southeast of Rajc. The International long-distance tourist route E3 passes through the locality.",
+    "hikeRoute": "Durcina - Zihlavnik - Uplaz - Sedlo pod Hlinickou Kycerou - Hnilicka Kycera and back",
+    "duration": "7:10",
+    "length": "20.8",
+    "elevation": "1262",
+    "maxAltitude": "1218m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/hnilicka_kycera.jpg"
+  },
+  {
+    "name": "Suchy from Strecno and back",
+    "shortName": "Suchy",
+    "desc": "The Suchy Hill is situated with its altitude of 1468 m above sea level in the Krivanska Mala Fatra. It is adjacent to the White Rocks and the Klacianska Magura. Just nearby is the Chalet pod Suchy. This hill is located in the southernmost part of the main ridge and offers nice views to the east and south.",
+    "hikeRoute": "Strecno, station - Nezbudska Lucka - Podhradske - Chata pod Suchym - Javorina - Prislop pod Suchym – Suchy and back",
+    "duration": "7:45",
+    "length": "19.4",
+    "elevation": "1288",
+    "maxAltitude": "1468m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/suchy.jpg"
+  },
+  {
+    "name": "Great Choc from Lucky and back",
+    "shortName": "Great Choc",
+    "desc": "Great Choc is visible from Strba and from the whole lower Orava. The peak is very popular with tourists. It has the shape of an irregular pyramid with numerous rock parts. From the top of Choc there is an excellent circular view.",
+    "hikeRoute": "Lucky - Zimerova - Great Choc and back",
+    "duration": "6:35",
+    "length": "13.4",
+    "elevation": "1087",
+    "maxAltitude": "1607m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/velky_choc.jpg"
+  },
+  {
+    "name": "Rakytov circuit from Teplo",
+    "shortName": "Rakytov",
+    "desc": "Rakytov is located on the Liptovska branch of the Great Fatra Ridge. It provides a circular view of the Little Fatra, Low Tatras, Great Fatra in good weather you can see Choc or the High Tatras. On the way you can refresh yourself at the Limba refuge. Part of the route between Middle Revica and Teplo, the mountain hut leads along the road, it is not marked.",
+    "hikeRoute": "Teplo, horaren - Utulna Limba - Rakytovske sedlo - Rakytov - Rakytovske - Sedlo pod Ciernym kamenom - Stredna Revuca - Teplo, horaren",
+    "duration": "7:00",
+    "length": "20.4",
+    "elevation": "1162",
+    "maxAltitude": "1567m.a.s.l.",
+    "highProfile": "",
+    "image": "/images/rakytov.jpg"
+  }
+]

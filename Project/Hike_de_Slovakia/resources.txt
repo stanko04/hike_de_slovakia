@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/28587297/create-array-of-label-using-fxml-in-javafx
+
+https://www.youtube.com/watch?v=-xW0pBZqpjU
+
+--------------- TODO
+upravit variables v singupController
